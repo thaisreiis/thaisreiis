@@ -7,13 +7,17 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisreiis&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-### Back-End
+### Tecnologia
 ![JAVA](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-
-### Estudando no momento:
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+
+
+### Banco de Dados
+![MYSQL](https://img.shields.io/badge/-MYSQL-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
+![MONGODB](https://img.shields.io/badge/-MONGODB-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
+![H2](https://img.shields.io/badge/-H2-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
+
 
 ### Ferramentas:
 ![Eclipse](https://img.shields.io/badge/-eclipse-0D1117?style=for-the-badge&logo=eclipse&labelColor=0D1117)&nbsp;
